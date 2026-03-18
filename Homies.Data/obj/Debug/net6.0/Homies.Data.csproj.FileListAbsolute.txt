@@ -1,0 +1,15 @@
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\bin\Debug\net6.0\Homies.Data.deps.json
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\bin\Debug\net6.0\Homies.Data.runtimeconfig.json
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\bin\Debug\net6.0\Homies.Data.dll
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\bin\Debug\net6.0\Homies.Data.pdb
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\obj\Debug\net6.0\Homies.Data.csproj.AssemblyReference.cache
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\obj\Debug\net6.0\Homies.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\obj\Debug\net6.0\Homies.Data.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\obj\Debug\net6.0\Homies.Data.AssemblyInfo.cs
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\obj\Debug\net6.0\Homies.Data.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\obj\Debug\net6.0\Homies.Data.sourcelink.json
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\obj\Debug\net6.0\Homies.Data.dll
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\obj\Debug\net6.0\refint\Homies.Data.dll
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\obj\Debug\net6.0\Homies.Data.pdb
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\obj\Debug\net6.0\Homies.Data.genruntimeconfig.cache
+C:\Users\GRIGS\Downloads\Retake-Exam-Resources\exam-devops\repo2\repo2\Homies.Data\obj\Debug\net6.0\ref\Homies.Data.dll
